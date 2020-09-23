@@ -8,4 +8,4 @@ https://play.google.com/store/apps/details?id=com.math.crazyMathGame
 
 Screenshots
 
-![Screenshot 1](/Screenshots/Screenshot 1.png)
+![Screenshot 1](/Screenshots/Screenshot 1)
