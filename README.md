@@ -8,6 +8,6 @@ https://play.google.com/store/apps/details?id=com.math.crazyMathGame
 
 Screenshots
 
-<img src="https://github.com/thgeorge-se/React-Native-CrazyMathGame/blob/master/Screenshots/Screenshot%201.png" width="200" height="400" />
+<img src="https://github.com/thgeorge-se/React-Native-CrazyMathGame/blob/master/Screenshots/Screenshot%201.png" width="200" height="400" /> |
 <img src="https://github.com/thgeorge-se/React-Native-CrazyMathGame/blob/master/Screenshots/Screenshot%201.png" width="200" height="400" />
 
